@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.gcit.dao.AuthorDao;
 import com.gcit.domain.Author;
-//testing jenkins webhook comment #6
+//testing jenkins webhook comment #8
 @RestController
 public class LMSAuthorController {
 
